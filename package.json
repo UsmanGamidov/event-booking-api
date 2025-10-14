@@ -1,0 +1,13 @@
+{
+  "name": "tz_13.10.25",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.4.1",
+    "express": "^5.1.0",
+    "zod": "^4.1.12"
+  }
+}
