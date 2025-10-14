@@ -71,6 +71,3 @@ UNIQUE(event_id, user_id) — предотвращает повторное бр
 
 ## Используемые технологии  
 Node.js, Express, SQLite (better-sqlite3), Zod.  
-
-## Лицензия  
-MIT License
