@@ -8,7 +8,7 @@ REST API для бронирования мест на мероприятия.
 
 ## Установка и запуск
 
-git clone https://github.com/<твой_ник>/event-booking-api.git  
+git clone https://github.com/UsmanGamidov/event-booking-api.git  
 cd event-booking-api  
 npm install  
 npm start  
